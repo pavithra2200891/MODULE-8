@@ -16,6 +16,7 @@ To write a Python program that takes a list of scores from participants and find
 7. Print the second-last element of the sorted list (i.e., the runner-up score)
 8. **Stop**
 
+
 ---
 
 ## 💻 PROGRAM:
