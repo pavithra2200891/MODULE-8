@@ -10,6 +10,7 @@ To write a Python program that checks if a given string ends with a number using
 
 ---
 
+
 ## 🧠 Algorithm
 
 1. **Start the program.**
